@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<a href="https://app.daily.dev/Farhaan-Hash"><img src="https://api.daily.dev/devcards/159e6c948f0a4419a07376a9d25f503f.png?r=xp8" width="400" alt="hell ripper's Dev Card"/></a>
+<a href="https://app.daily.dev/Farhaan-Hash"><img src="https://api.daily.dev/devcards/159e6c948f0a4419a07376a9d25f503f.png?r=848" width="400" alt="hell ripper's Dev Card"/></a>
 
 
 
