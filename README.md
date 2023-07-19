@@ -2,7 +2,7 @@
 <a href="https://app.daily.dev/Farhaan-Hash"><img src="https://api.daily.dev/devcards/159e6c948f0a4419a07376a9d25f503f.png?r=m76" width="280" alt="hell ripper's Dev Card"/></a>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeromehardaway" alt="jeromehardaway" /></a> </p> -->
-![Image](https://lottie.host/?file=b2fd3fe2-56cb-47a2-b3cb-99a8d8f5eeb4/9aZACH0AzA.json)
+
 
 
 # 💻 Tech Stack:
