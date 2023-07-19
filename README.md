@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/Farhaan-Hash"><img src="https://api.daily.dev/devcards/159e6c948f0a4419a07376a9d25f503f.png?r=m76" width="280" alt="hell ripper's Dev Card"/></a>
+<a href="https://app.daily.dev/Farhaan-Hash"><img src="https://api.daily.dev/devcards/159e6c948f0a4419a07376a9d25f503f.png?r=m76" width="280" alt="hell ripper's Dev Card"/></a> <script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script><lottie-player src=“https://lottie.host/b2fd3fe2-56cb-47a2-b3cb-99a8d8f5eeb4/9aZACH0AzA.json” background=“#fff” speed=“1” style=“width: 300px; height: 300px” loop controls autoplay direction=“1” mode=“normal”></lottie-player>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeromehardaway" alt="jeromehardaway" /></a> </p> -->
 
