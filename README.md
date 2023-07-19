@@ -3,7 +3,7 @@
   <a href="https://app.daily.dev/Farhaan-Hash" style="flex: 1; margin-right: 20px;">
     <img src="https://api.daily.dev/devcards/159e6c948f0a4419a07376a9d25f503f.png?r=m76" width="280" alt="hell ripper's Dev Card"/>
   </a>
-  <img src="https://miro.medium.com/v2/resize:fit:640/1*06f6VMGAqEQoLQw8uzgPoA.gif" alt="Image" height="300" width="300" style="margin-left: auto; border-radius: 30px;">
+  <img src="https://wallpapercave.com/wp/wp2757832.gif" alt="Image" height="300" width="300" style="margin-left: auto; border-radius: 30px;">
 </div>
 
 
