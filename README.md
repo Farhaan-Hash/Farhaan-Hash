@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeromehardaway" alt="jeromehardaway" /></a> </p> -->
 
-![Image](https://dribbble.com/shots/6139167-Avento-marketing?utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share)
+![Image](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
 
 
 # 💻 Tech Stack:
