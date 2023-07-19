@@ -2,7 +2,7 @@
 <a href="https://app.daily.dev/Farhaan-Hash"><img src="https://api.daily.dev/devcards/159e6c948f0a4419a07376a9d25f503f.png?r=m76" width="280" alt="hell ripper's Dev Card"/></a>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeromehardaway" alt="jeromehardaway" /></a> </p> -->
-<img align="right alt="coding" width="400" src="https://dribbble.com/shots/6139167-Avento-marketing?utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share">
+
 ![Image](https://dribbble.com/shots/6139167-Avento-marketing?utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share)
 
 
